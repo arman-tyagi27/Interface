@@ -1,0 +1,14 @@
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.exe
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.deps.json
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.runtimeconfig.json
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.runtimeconfig.dev.json
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.dll
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.pdb
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.csproj.AssemblyReference.cache
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.AssemblyInfoInputs.cache
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.AssemblyInfo.cs
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.csproj.CoreCompileInputs.cache
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.dll
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.pdb
+C:\Users\Arman.tyagi\source\repos\FirstProg\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.genruntimeconfig.cache
